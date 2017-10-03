@@ -1,7 +1,7 @@
 baseURL = "http://cecilialee.github.io/"
 languageCode = "en-us"
 title = "Cecilia Lee"
-theme = "hugo-theme-cactus-plus"
+theme = "hugo-cactus-theme"
 
 [params]
 	name = "Cecilia Lee"
