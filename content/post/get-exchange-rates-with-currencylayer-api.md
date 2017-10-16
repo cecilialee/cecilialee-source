@@ -41,7 +41,7 @@ We also store our currenclayer API key as a variable for easier access.
 
 
 ```python
-api = '2639ccac02d7c15359d45f9a2bc9d8ea'
+api = '2639cbac02d7a15329d45f9c2be0d8ea'
 ```
 
 ## 3. Get Live Quote
